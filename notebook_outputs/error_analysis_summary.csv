@@ -1,0 +1,5 @@
+ErrorType,Customers,MedianRecency,MedianFrequency,MedianSpend,MedianUniqueProducts,MedianCancellationRate
+False negative,1254,36.514583333333334,1.0,334.425,20.0,0.0
+False positive,831,22.460416666666667,2.0,799.15,36.0,0.0
+True negative,3157,33.3625,1.0,305.28000000000003,17.0,0.0
+True positive,1276,17.393055555555556,3.0,1084.9,47.0,0.0

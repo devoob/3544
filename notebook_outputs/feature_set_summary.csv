@@ -1,0 +1,8 @@
+Dataset,Predictors
+A_RFM,3
+B_Behaviour,15
+C_Behaviour_Cancellation,22
+D_TFIDF_Best,44
+E_MiniLM_Best,44
+F_TFIDF_K16,40
+G_MiniLM_K16,40

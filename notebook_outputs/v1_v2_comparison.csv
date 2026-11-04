@@ -1,0 +1,20 @@
+Version,Stage,Metric,Value
+v1,TF-IDF benchmark,Best K,8
+v1,TF-IDF benchmark,Silhouette cosine,0.014682
+v1,TF-IDF benchmark,Largest cluster share,0.680
+v1,July validation,Best model,Boosting + TFIDF
+v1,July validation,Best model PR-AUC,0.615643
+v1,Final pooled,Best model,Boosting + MiniLM
+v1,Final pooled,Boosting Behaviour PR-AUC,0.638
+v1,Final pooled,Boosting + MiniLM PR-AUC,0.638
+v1,Final pooled,Logistic Behaviour PR-AUC,0.634
+v2,LSA-TF-IDF benchmark,Best K,20
+v2,LSA-TF-IDF benchmark,Silhouette cosine,0.144621
+v2,LSA-TF-IDF benchmark,Largest cluster share,0.247299
+v2,July validation,Best model,Boosting + TFIDF Best
+v2,July validation,Best model PR-AUC,0.615129
+v2,Final pooled,Post-hoc best model,Boosting + MiniLM Best
+v2,Final pooled,Boosting Behaviour PR-AUC,0.632771
+v2,Final pooled,Boosting + TFIDF Best PR-AUC,0.633814
+v2,Final pooled,Boosting + MiniLM Best PR-AUC,0.634219
+v2,Final pooled,Logistic Behaviour PR-AUC,0.632861

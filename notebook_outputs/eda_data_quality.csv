@@ -1,0 +1,10 @@
+Check,Rows,ShareOfRaw
+Raw invoice lines,541909,1.0
+Exact duplicate rows,5268,0.009721189350979592
+Missing CustomerID,135080,0.249266943342886
+Missing Description,1454,0.002683107311375157
+Cancellation or negative quantity,10587,0.019728272718633127
+Non-positive quantity,10587,0.019728272718633127
+Non-positive price,2512,0.004680969214055579
+Valid identified purchase lines,392692,0.7246456508380559
+Merchandise product lines,391153,0.7218056906233334

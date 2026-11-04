@@ -1,0 +1,9 @@
+.venv/
+.cache/
+__pycache__/
+.pytest_cache/
+*.ses
+notebook_outputs/execution.log
+notebook_outputs/executed_notebook.ipynb
+
+

@@ -1,0 +1,10 @@
+Metric,Value
+Rows,541909
+Columns,8
+First timestamp,2010-12-01 08:26:00
+Last timestamp,2011-12-09 12:50:00
+Missing CustomerID,135080
+Missing Description,1454
+Exact duplicate rows,5268
+Unique invoices,25900
+Unique stock codes,4070

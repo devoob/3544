@@ -1,0 +1,9 @@
+Stage,Rows
+Raw rows,541909
+Exact duplicates removed,5268
+Cleaned rows,536641
+Valid identified purchase lines,392692
+Merchandise product lines,391153
+Transaction-charge lines,1539
+Identified merchandise returns,8506
+Other invalid or unidentified lines,135077
